@@ -23,4 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "#kexin4-1-vue-admin"  
+
 #kexin4-1-vue-admin
+
+npm install --> node .\app.js
